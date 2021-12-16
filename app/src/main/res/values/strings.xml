@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Trips Mountain</string>
+    <string name="app_name_word1">Trips</string>
+    <string name="app_name_word2">Mountain</string>
+    <string name="app_info">Mountain hikes give you an incredible sense of freedom along with
+                            endurance tests</string>
+    <string name="title_home">Discover</string>
+    <string name="mountain_name">Name</string>
+    <string name="mountain_location">Location</string>
+    <string name="tab_places">Places</string>
+</resources>

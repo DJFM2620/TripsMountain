@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/drawable/button_rounded.xml" value="0.3574074074074074" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/drawable/round_shape.xml" value="0.3574074074074074" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/drawable/rounded_button.xml" value="1.3785714285714286" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/emotions_fragment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/home.xml" value="0.33" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/home_trips.xml" value="0.20520833333333333" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/info_main.xml" value="0.33" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/inspiration_fragment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/mountain_card.xml" value="0.33" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/mountain_grid_fragment.xml" value="0.33" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/mountain_info.xml" value="0.33" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/layout/start_app.xml" value="0.25" />
+        <entry key="..\:/Joel-Instituto/5to Ciclo/Java Movil/Exercise_01/app/src/main/res/menu/toolbar_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

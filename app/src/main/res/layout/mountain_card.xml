@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/card_mountain"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@color/white"
+    app:cardElevation="0dp"
+    app:cardPreventCornerOverlap="true">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="100px"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/mountain_image"
+                android:layout_width="match_parent"
+                android:layout_height="390dp"
+                android:background="#3296F1"
+                android:scaleType="centerCrop">
+
+            </com.android.volley.toolbox.NetworkImageView>
+
+            <TextView
+                android:id="@+id/mountain_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/mountain_image"
+                android:fontFamily="@font/mukta_medium"
+                android:paddingBottom="40dp"
+                android:paddingStart="20dp"
+                android:text="@string/mountain_name"
+                android:textColor="@color/white"
+                android:textSize="25dp" />
+
+            <TextView
+                android:id="@+id/mountain_location"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/mountain_image"
+                android:fontFamily="@font/mukta_medium"
+                android:paddingStart="20dp"
+                android:textSize="25dp"
+                android:textColor="@color/white"
+                android:text="@string/mountain_location"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
